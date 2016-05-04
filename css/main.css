@@ -8,13 +8,13 @@ body {
 }
 .container{
 	text-align: center;
+	width: 100%;
 }
 #main-me {
 	position: absolute;
 	text-align: center;
 	top:20%;
-	left:50%;
-	margin-left: -149px;
+	width: 100%;
 }
 
 #main-text{
